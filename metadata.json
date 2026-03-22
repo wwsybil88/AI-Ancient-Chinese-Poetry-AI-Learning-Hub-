@@ -1,0 +1,7 @@
+{
+  "name": "AI 古诗词双语教学助手",
+  "description": "An AI-powered platform that serves as a bilingual helper in teaching ancient Chinese poetry, especially when facing junior/high school students and those who are interested in learning Chinese poetry culture.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
